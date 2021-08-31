@@ -1,0 +1,9 @@
+{
+    "name": "daxte/cliente-ws",
+    "autoload": {
+        "psr-4": {
+            "Daxte\\ClienteWs\\": "src/"
+        }
+    },
+    "require": {}
+}
